@@ -21,3 +21,8 @@ exemplos | valor       | toextensive
 4        | 123,62      | cento e vinte e três reais e sessenta e dois centavos
 5        | 54340210,31 | cinquenta e quatro milhões, trezentos e quarenta mil, duzentos e dez reais e trinta e um centavos
     
+
+### Licença
+
+[MIT](LICENSE). A adaptação para PL/pgSQL é de minha autoria; a lógica original em Java é
+creditada no artigo referenciado acima.
